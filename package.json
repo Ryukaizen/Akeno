@@ -1,0 +1,33 @@
+{
+  "name": "akeno",
+  "version": "1.0.0",
+  "description": "Anime oriented Telegram group management bot. Built using telegraf.js (Node.js framework)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryukaizen/Akeno.git"
+  },
+  "keywords": [
+    "akeno",
+    "anime",
+    "otaku",
+    "weeb",
+    "telegram",
+    "bot",
+    "telegram-bot",
+    "telegram-chat",
+    "group-management-bot",
+    "telegrafjs",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Ryukaizen",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Ryukaizen/Akeno/issues"
+  },
+  "homepage": "https://github.com/Ryukaizen/Akeno#readme"
+}
