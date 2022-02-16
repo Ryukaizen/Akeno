@@ -29,5 +29,9 @@
   "bugs": {
     "url": "https://github.com/Ryukaizen/Akeno/issues"
   },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.7.0"
+  }, 
   "homepage": "https://github.com/Ryukaizen/Akeno#readme"
 }
